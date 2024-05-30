@@ -1,0 +1,1 @@
+This is the project shows the typewriter text animation using just HTML and CSS. I coded this project while watching https://youtu.be/m0o0QNpY9-0?si=Fa5_P6qHifBxTQpt
